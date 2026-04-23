@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj": {}
+    "D:\\23UAM004\\dotnet\\.NET-Lab\\dotnetExp\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj": {
+    "D:\\23UAM004\\dotnet\\.NET-Lab\\dotnetExp\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj",
+        "projectUniqueName": "D:\\23UAM004\\dotnet\\.NET-Lab\\dotnetExp\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj",
         "projectName": "CRMAdvanced",
-        "projectPath": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj",
-        "packagesPath": "C:\\Users\\tahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\obj\\",
+        "projectPath": "D:\\23UAM004\\dotnet\\.NET-Lab\\dotnetExp\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj",
+        "packagesPath": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\",
+        "outputPath": "D:\\23UAM004\\dotnet\\.NET-Lab\\dotnetExp\\Experiment_6\\CRMAdvanced\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tahir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RUSHIKESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
