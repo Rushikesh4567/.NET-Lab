@@ -1,0 +1,29 @@
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\bin\Debug\net10.0\Experiment_3.exe
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\bin\Debug\net10.0\Experiment_3.deps.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\bin\Debug\net10.0\Experiment_3.runtimeconfig.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\bin\Debug\net10.0\Experiment_3.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\bin\Debug\net10.0\Experiment_3.pdb
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\Experiment_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\Experiment_3.AssemblyInfoInputs.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\Experiment_3.AssemblyInfo.cs
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\Experiment_3.csproj.CoreCompileInputs.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\Experiment_3.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\refint\Experiment_3.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\Experiment_3.pdb
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\Experiment_3.genruntimeconfig.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_3\obj\Debug\net10.0\ref\Experiment_3.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\bin\Debug\net10.0\Experiment_3.exe
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\bin\Debug\net10.0\Experiment_3.deps.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\bin\Debug\net10.0\Experiment_3.runtimeconfig.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\bin\Debug\net10.0\Experiment_3.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\bin\Debug\net10.0\Experiment_3.pdb
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\Experiment_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\Experiment_3.AssemblyInfoInputs.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\Experiment_3.AssemblyInfo.cs
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\Experiment_3.csproj.CoreCompileInputs.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\Experiment_3.sourcelink.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\Experiment_3.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\refint\Experiment_3.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\Experiment_3.pdb
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\Experiment_3.genruntimeconfig.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_3\obj\Debug\net10.0\ref\Experiment_3.dll

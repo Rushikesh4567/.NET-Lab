@@ -1,0 +1,293 @@
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\appsettings.Development.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\appsettings.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.staticwebassets.runtime.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.staticwebassets.endpoints.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.exe
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.deps.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.runtimeconfig.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.dll
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.pdb
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.AssemblyInfoInputs.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.AssemblyInfo.cs
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.csproj.CoreCompileInputs.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.MvcApplicationPartsAssemblyInfo.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.RazorAssemblyInfo.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.RazorAssemblyInfo.cs
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\scopedcss\bundle\CRMAdvanced.styles.css
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\scopedcss\projectbundle\CRMAdvanced.bundle.scp.css
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\tx0qflj6w2-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\xwfscxnig4-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\tsofsu6jtb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\dmndxh16pn-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\212cyjfrvp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\yjwqzazw5k-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\8hsslrrjww-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\9cnb89dh0x-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\l2jkj6fmbz-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\vvo7kcfd7m-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\wecltzozge-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\2k55tccxcs-{0}-ub07r2b239-ub07r2b239.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\va4molevjk-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\8lcr2ik98l-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\x5hungol8l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\auqssfx4qv-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\68w75s5tkr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\b49fjueb22-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\7kruv6yi8r-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\c8xt0bnxig-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\8ub1wxhqeo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\a7k9ihp09e-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\v132xt8rdo-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\ujxzlhzsme-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\a4h94ddn2t-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\ooile7vdwf-{0}-06098lyss8-06098lyss8.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\3rzpcb1mna-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\1vxc59ngyj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\0htcmbwojt-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\x8kkf6kgi1-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\wt7e66jpxy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\99mid4kio9-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\f88bf17ba9-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\cfk9h6iicc-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\i7pip36psb-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\fp7so3zqjh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\4pyz7s1yek-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\9rca0486yb-{0}-493y06b0oq-493y06b0oq.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\3k84v4t2ph-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\dxoij4akd3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\gdpl9j714w-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\06qecmkq4f-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\7zp8r5e0yk-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\zi7dq304s6-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\gbnz310k9j-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\gybiqxtdiy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\zj53sv4iph-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\kpl83s24wh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\yagjupv2pi-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\0996oxq4c8-{0}-356vix0kms-356vix0kms.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\sfjfdphk85-{0}-83jwlth58m-83jwlth58m.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\l2z8l3ov05-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\ug4ishovya-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\8wlbxznqtp-{0}-ag7o75518u-ag7o75518u.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\4zof43e7sf-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\z24fz9jjzb-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\1iznznm05f-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\x5ie0g71ic-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\munlpvumgk-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\bgsmxgv276-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\933quyuebd-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\qgy92soot8-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\zd03clw45x-{0}-83zu7zhc7h-83zu7zhc7h.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\compressed\mawmxm839a-{0}-83zu7zhc7h-83zu7zhc7h.gz
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.development.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\swae.build.ex.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.dll
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\refint\CRMAdvanced.dll
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.pdb
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.genruntimeconfig.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment6\CRMAdvanced\obj\Debug\net10.0\ref\CRMAdvanced.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\appsettings.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.staticwebassets.endpoints.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.staticwebassets.runtime.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.exe
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.deps.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.runtimeconfig.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.pdb
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.AssemblyInfoInputs.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.AssemblyInfo.cs
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.RazorAssemblyInfo.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.RazorAssemblyInfo.cs
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\scopedcss\bundle\CRMAdvanced.styles.css
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\scopedcss\projectbundle\CRMAdvanced.bundle.scp.css
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\tx0qflj6w2-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\xwfscxnig4-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\tsofsu6jtb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\dmndxh16pn-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\212cyjfrvp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\yjwqzazw5k-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\8hsslrrjww-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\9cnb89dh0x-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\l2jkj6fmbz-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\vvo7kcfd7m-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\wecltzozge-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\2k55tccxcs-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\va4molevjk-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\8lcr2ik98l-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\x5hungol8l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\auqssfx4qv-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\68w75s5tkr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\b49fjueb22-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\7kruv6yi8r-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\c8xt0bnxig-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\8ub1wxhqeo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\a7k9ihp09e-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\v132xt8rdo-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\ujxzlhzsme-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\a4h94ddn2t-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\ooile7vdwf-{0}-06098lyss8-06098lyss8.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\3rzpcb1mna-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\1vxc59ngyj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\0htcmbwojt-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\x8kkf6kgi1-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\wt7e66jpxy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\99mid4kio9-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\f88bf17ba9-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\cfk9h6iicc-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\i7pip36psb-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\fp7so3zqjh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\4pyz7s1yek-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\9rca0486yb-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\3k84v4t2ph-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\dxoij4akd3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\gdpl9j714w-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\06qecmkq4f-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\7zp8r5e0yk-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\zi7dq304s6-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\gbnz310k9j-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\gybiqxtdiy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\zj53sv4iph-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\kpl83s24wh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\yagjupv2pi-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\0996oxq4c8-{0}-356vix0kms-356vix0kms.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\sfjfdphk85-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\l2z8l3ov05-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\ug4ishovya-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\8wlbxznqtp-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\4zof43e7sf-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\z24fz9jjzb-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\1iznznm05f-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\x5ie0g71ic-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\munlpvumgk-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\bgsmxgv276-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\933quyuebd-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\qgy92soot8-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\zd03clw45x-{0}-83zu7zhc7h-83zu7zhc7h.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\mawmxm839a-{0}-83zu7zhc7h-83zu7zhc7h.gz
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\refint\CRMAdvanced.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.pdb
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.genruntimeconfig.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_6\CRMAdvanced\obj\Debug\net10.0\ref\CRMAdvanced.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\appsettings.Development.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\appsettings.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.staticwebassets.runtime.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.staticwebassets.endpoints.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.exe
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.deps.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.runtimeconfig.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\bin\Debug\net10.0\CRMAdvanced.pdb
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.AssemblyInfoInputs.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.AssemblyInfo.cs
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.csproj.CoreCompileInputs.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.MvcApplicationPartsAssemblyInfo.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.RazorAssemblyInfo.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.RazorAssemblyInfo.cs
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.sourcelink.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\scopedcss\bundle\CRMAdvanced.styles.css
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\scopedcss\projectbundle\CRMAdvanced.bundle.scp.css
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\tx0qflj6w2-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\xwfscxnig4-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\tsofsu6jtb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\dmndxh16pn-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\212cyjfrvp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\yjwqzazw5k-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\8hsslrrjww-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\9cnb89dh0x-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\l2jkj6fmbz-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\vvo7kcfd7m-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\wecltzozge-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\2k55tccxcs-{0}-ub07r2b239-ub07r2b239.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\va4molevjk-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\8lcr2ik98l-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\x5hungol8l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\auqssfx4qv-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\68w75s5tkr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\b49fjueb22-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\7kruv6yi8r-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\c8xt0bnxig-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\8ub1wxhqeo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\a7k9ihp09e-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\v132xt8rdo-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\ujxzlhzsme-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\a4h94ddn2t-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\ooile7vdwf-{0}-06098lyss8-06098lyss8.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\3rzpcb1mna-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\1vxc59ngyj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\0htcmbwojt-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\x8kkf6kgi1-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\wt7e66jpxy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\99mid4kio9-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\f88bf17ba9-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\cfk9h6iicc-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\i7pip36psb-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\fp7so3zqjh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\4pyz7s1yek-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\9rca0486yb-{0}-493y06b0oq-493y06b0oq.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\3k84v4t2ph-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\dxoij4akd3-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\gdpl9j714w-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\06qecmkq4f-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\7zp8r5e0yk-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\zi7dq304s6-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\gbnz310k9j-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\gybiqxtdiy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\zj53sv4iph-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\kpl83s24wh-{0}-47otxtyo56-47otxtyo56.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\yagjupv2pi-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\0996oxq4c8-{0}-356vix0kms-356vix0kms.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\sfjfdphk85-{0}-83jwlth58m-83jwlth58m.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\l2z8l3ov05-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\ug4ishovya-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\8wlbxznqtp-{0}-ag7o75518u-ag7o75518u.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\4zof43e7sf-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\z24fz9jjzb-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\1iznznm05f-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\x5ie0g71ic-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\munlpvumgk-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\bgsmxgv276-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\933quyuebd-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\qgy92soot8-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\zd03clw45x-{0}-83zu7zhc7h-83zu7zhc7h.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\compressed\mawmxm839a-{0}-83zu7zhc7h-83zu7zhc7h.gz
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.development.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\swae.build.ex.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\refint\CRMAdvanced.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.pdb
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\CRMAdvanced.genruntimeconfig.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_6\CRMAdvanced\obj\Debug\net10.0\ref\CRMAdvanced.dll

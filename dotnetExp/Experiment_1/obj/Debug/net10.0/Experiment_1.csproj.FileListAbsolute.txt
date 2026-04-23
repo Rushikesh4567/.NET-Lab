@@ -1,0 +1,43 @@
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\bin\Debug\net10.0\Experiment_1.exe
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\bin\Debug\net10.0\Experiment_1.deps.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\bin\Debug\net10.0\Experiment_1.runtimeconfig.json
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\bin\Debug\net10.0\Experiment_1.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\bin\Debug\net10.0\Experiment_1.pdb
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\Experiment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\Experiment_1.AssemblyInfoInputs.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\Experiment_1.AssemblyInfo.cs
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\Experiment_1.csproj.CoreCompileInputs.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\Experiment_1.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\refint\Experiment_1.dll
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\Experiment_1.pdb
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\Experiment_1.genruntimeconfig.cache
+C:\Users\tahir\Downloads\dotnet EXP\Experiment_1\obj\Debug\net10.0\ref\Experiment_1.dll
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.exe
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.deps.json
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.runtimeconfig.json
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.dll
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.pdb
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.AssemblyInfoInputs.cache
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.AssemblyInfo.cs
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.csproj.CoreCompileInputs.cache
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.dll
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\refint\Experiment_1.dll
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.pdb
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.genruntimeconfig.cache
+D:\23UAM004\dotnet\dotnetExp\dotnetExp\Experiment_1\obj\Debug\net10.0\ref\Experiment_1.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.exe
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.deps.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.runtimeconfig.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\bin\Debug\net10.0\Experiment_1.pdb
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.AssemblyInfoInputs.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.AssemblyInfo.cs
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.csproj.CoreCompileInputs.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.sourcelink.json
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\refint\Experiment_1.dll
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.pdb
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\Experiment_1.genruntimeconfig.cache
+D:\23UAM004\dotnet\.NET-Lab\dotnetExp\Experiment_1\obj\Debug\net10.0\ref\Experiment_1.dll
