@@ -1,0 +1,54 @@
+@page
+@model LibraryProject.Pages.Books.IndexModel
+@{
+    ViewData["Title"] = "List of Books";
+}
+
+<h2 class="my-4">List of Books</h2>
+
+<div class="row mb-3">
+    <div class="col-md-6">
+        <a class="btn btn-primary" href="/Books/Create">New Book</a>
+    </div>
+    <div class="col-md-6">
+        <form method="get">
+            <div class="input-group">
+                <input type="text" class="form-control" name="SearchTerm" value="@Model.SearchTerm" placeholder="Search by Title, Author or Category">
+                <button class="btn btn-outline-secondary" type="submit">Search</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>ISBN</th>
+            <th>Category</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listBooks)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Title</td>
+                <td>@item.Author</td>
+                <td>@item.ISBN</td>
+                <td>@item.Category</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price.ToString("C")</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" href="/Books/Edit?id=@item.Id">Edit</a>
+                    <a class="btn btn-sm btn-danger" href="/Books/Delete?id=@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
